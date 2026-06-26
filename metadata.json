@@ -1,0 +1,6 @@
+{
+  "name": "Криптообменник",
+  "description": "Криптообменник со встроенным кошельком, обменом валют, пополнением (RUB, USD, крипто) и P2P-сделками.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
